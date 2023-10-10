@@ -12,4 +12,3 @@ function checkPrime(n){
 }
 
 checkPrime(5)
-checkPrime(6)  
