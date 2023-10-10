@@ -1,7 +1,7 @@
 function checkPrime(n){
     let count = 0 
     for( let i = 1 ; i <= n ; i++){
-        if(n%i == 1){
+        if(n%i == 0){
         count = count + 1
     }}
     if(count<=1){
@@ -12,4 +12,4 @@ function checkPrime(n){
 }
 
 checkPrime(5)
-checkPrime(6)  
+  
