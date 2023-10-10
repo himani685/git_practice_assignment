@@ -9,7 +9,7 @@ function checkPrime(n){
     }else{
         console.log("not prime")
     }
-    console.log("sfsfh")
+
 }
 
 checkPrime(5)
